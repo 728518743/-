@@ -1,0 +1,63 @@
+.main {
+    width: 886px;
+    height: 900px;
+    background:white;
+    font-size: 0;
+    margin: 50px auto 50px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: red; */
+    border:1px solid transparent;
+
+}
+span{
+    font-size: 14px;
+    background:black;
+    width: 53px;
+    line-height: 40px;
+    display: inline-block;
+    margin-left: 7px;
+    text-align: center;
+    margin-top: 6px;
+    border-radius: 6px;
+    color:white
+
+}
+
+.span-medium {
+    width: 79px;
+}
+
+.main-second{
+    width: 106px;
+}
+
+.span-enter {
+    width: 128px;
+}
+
+.main-three {
+    width: 200px;
+} 
+
+.main-five {
+    width: 406px;
+}
+.main-son{
+    margin-left: -7px;
+    margin-top: -7px;
+    height: 100%;
+    width:cala(100%+7px);
+}
+
+.span-caps {
+    width: 90px;
+}
+
+.span-shift {
+    width: 100px
+}
+
+.span-shift-t {
+    width:179px;
+}
